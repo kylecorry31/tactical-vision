@@ -1,7 +1,6 @@
 
 import picamera
 import io
-from PIL import Image
 import time
 import numpy as np
 from threading import Condition
