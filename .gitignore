@@ -1,4 +1,5 @@
 *.o
 oled
+off
 Thumbs.db
 infrared
